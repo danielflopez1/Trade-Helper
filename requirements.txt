@@ -1,0 +1,11 @@
+numpy
+pip
+nltk
+matplotlib
+scikit-learn
+scipy
+plotly
+pandas
+requests_html
+smtplibaio
+pickleshare
